@@ -1078,6 +1078,13 @@ nav .active-section span {
     height: 60px;
   }
 
+
+  #featured .owl-nav .owl-next span,
+  #featured .owl-nav .owl-prev span {
+    margin-top: 100px;
+  }
+   
+
   .page-content {
     width: 100%;
   }
